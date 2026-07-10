@@ -1,15 +1,7 @@
-<h1 align="center">Hi 👋, I'm RomFishy</h1>
-<h3 align="center">Master of Linux</h3>
+<h1 align="center">Hi 👋, I'm Lukas</h1>
 <img align="right" alt="tux" width="300" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Rotating_Tux.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romfishy&label=Profile%20views&color=0e75b6&style=flat" alt="romfishy" /> </p>
-
-- 🌱 I’m currently learning [Go(golang)](https://go.dev/)
-
-- ⚡ Fun fact **I want buy flipper zero**
-
-- 📄 Know about my experiences **Arch Fedora Ubuntu Kali Phising Remote system administration**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/lukas_zgs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lukas_zgs_" height="30" width="40" /></a>
